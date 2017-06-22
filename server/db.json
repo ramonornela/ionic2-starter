@@ -1,0 +1,76 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Ramon Henrique Ornelas",
+      "cpf": "09008689618",
+      "senha": "12345678",
+      "endereco": "Rua 10 casa 20",
+      "telefones": ["(61) 9953-34344" , "(61) 8493-3452", "(61) 97483-5473"],
+      "biografia": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare orci id lacus mollis, vel suscipit dui dapibus. Aliquam vel urna iaculis, accumsan leo vitae, faucibus odio. Pellentesque ac ante posuere"
+    },
+    {
+      "id": 2,
+      "nome": "Francisco Drumond",
+      "cpf": "72287292187",
+      "senha": "123456",
+      "endereco": "QI 13 Conjunto 13 Casa 13",
+      "telefones": ["(61) 9953-34399" , "(61) 8493-3452", "(61) 97483-5473"],
+      "biografia": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare orci id lacus mollis, vel suscipit dui dapibus. Aliquam vel urna iaculis, accumsan leo vitae, faucibus odio. Pellentesque ac ante posuere"
+    },
+    {
+      "id": 3,
+      "nome": "Monika Santos",
+      "cpf": "78725681605",
+      "senha": "123456",
+      "endereco": "Quadra 12 Bloco A Apt 32",
+      "telefones": ["(61) 9953-34322" , "(61) 8493-3452", "(61) 97483-5473"],
+      "biografia": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare orci id lacus mollis, vel suscipit dui dapibus. Aliquam vel urna iaculis, accumsan leo vitae, faucibus odio. Pellentesque ac ante posuere"
+    },
+    {
+      "id": 4,
+      "nome": "Carlos Alberto",
+      "cpf": "18868664577",
+      "senha": "123456",
+      "endereco": "QE 33 Bloco K Apt 55",
+      "telefones": ["(61) 9953-34365" , "(61) 8493-3452", "(61) 97483-5473"],
+      "biografia": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare orci id lacus mollis, vel suscipit dui dapibus. Aliquam vel urna iaculis, accumsan leo vitae, faucibus odio. Pellentesque ac ante posuere"
+    },
+    {
+      "id": 5,
+      "nome": "Patricia Borges",
+      "cpf": "89618854566",
+      "senha": "123456",
+      "endereco": "Condomínio Jardim Europa casa 33",
+      "telefones": ["(61) 9953-34324" , "(61) 8493-3452", "(61) 97483-5473"],
+      "biografia": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare orci id lacus mollis, vel suscipit dui dapibus. Aliquam vel urna iaculis, accumsan leo vitae, faucibus odio. Pellentesque ac ante posuere"
+    },
+    {
+      "id": 6,
+      "nome": "Camila Moniz",
+      "cpf": "97766603985",
+      "senha": "123456",
+      "endereco": "Condomínio Villa verde rua 12 casa 21",
+      "telefones": ["(61) 9953-34324" , "(61) 8493-3452", "(61) 97483-5473"],
+      "biografia": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare orci id lacus mollis, vel suscipit dui dapibus. Aliquam vel urna iaculis, accumsan leo vitae, faucibus odio. Pellentesque ac ante posuere"
+    },
+    {
+      "id": 7,
+      "nome": "Suzana Oliveira",
+      "cpf": "17663032420",
+      "senha": "123456",
+      "endereco": "SQS 412 Bloco J Apt 33",
+      "telefones": ["(61) 9953-34324" , "(61) 8493-3452", "(61) 97483-5473"],
+      "biografia": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare orci id lacus mollis, vel suscipit dui dapibus. Aliquam vel urna iaculis, accumsan leo vitae, faucibus odio. Pellentesque ac ante posuere"
+    },
+    {
+      "id": 8,
+      "nome": "Camila Moniz",
+      "cpf": "28178632160",
+      "senha": "123456",
+      "endereco": "SQN 312 Bloco K apt 21",
+      "telefones": ["(61) 9953-34324" , "(61) 8493-3452", "(61) 97483-5473"],
+      "biografia": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare orci id lacus mollis, vel suscipit dui dapibus. Aliquam vel urna iaculis, accumsan leo vitae, faucibus odio. Pellentesque ac ante posuere"
+    }
+  ]
+}
