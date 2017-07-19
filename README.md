@@ -1,12 +1,5 @@
 # Ionic2-Starter
 
-Projeto starter com features comuns para os projetos.
-
-- Login
-- Home
-- Termo
-- Onboard
-
 # Executando o projeto
 ```npm install``` ou ```yarn install```
 
@@ -51,9 +44,3 @@ Este copia os fontes para a pasta desejada, mas há a necessidade de modificaç�
 Contributing
 
 See [CONTRIBUTING.md](/.github/CONTRIBUTING.md)
-
-## Enviando App's para as lojas
-
-- [Android](/docs/README_ANDROID_LOJA.md)
-- [IOS](/docs/README_IOS_LOJA.md)
-- [Windows Phone](/docs/README_WP_LOJA.md)
