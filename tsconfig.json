@@ -4,6 +4,7 @@
     "noUnusedParameters": true,
     "noUnusedLocals": true,
     "declaration": false,
+    "skipLibCheck": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "strict": true,
