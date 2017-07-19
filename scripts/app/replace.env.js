@@ -11,10 +11,10 @@ if (indexEnv !== -1) {
 } else if (npmConfigJson.indexOf('--dev') !== -1) {
   env = 'dev';
 } else if (npmConfigJson.indexOf('--prod') !== -1) {
-  env = 'prod';	
+  env = 'prod';
 }
 
-var content = fs.readFileSync('./src/app/app.env.ts.skel');
+var content = fs.readFileSync('./src/app/app.env.ts.dist');
 var comtentReplace = content.toString().replace(/Env = '.*'/, `Env = '${env}'`);
 var wstream = fs.createWriteStream('./src/app/app.env.ts', { ovewrite: true });
 wstream.write(comtentReplace);

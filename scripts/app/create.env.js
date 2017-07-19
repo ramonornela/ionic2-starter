@@ -6,7 +6,7 @@ if (fs.existsSync('./src/app/app.env.ts')) {
   return;
 }
 
-var content = fs.readFileSync('./src/app/app.env.ts.skel');
+var content = fs.readFileSync('./src/app/app.env.ts.dist');
 
 fs.writeFile('./src/app/app.env.ts', content.toString(), function (err) {
   if (err) {
